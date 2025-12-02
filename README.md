@@ -1,0 +1,2 @@
+# AI-Voice-Intelligence-System-Gender-Recognition-Speech-to-Text-Text-Summarization-Using-NLP-
+This project focuses on building an AI-based Voice  Intelligence System capable of: Recognizing speaker gender  Converting speech into text transcription  Generating summarized insights from the spoken content  Using audio signal processing, machine learning, and NLP  techniques, the system processes raw audio files, extracts  relevant features.
